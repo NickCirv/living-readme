@@ -1,0 +1,10 @@
+{
+  "name": "living-readme",
+  "version": "1.0.0",
+  "description": "Your README updates itself on every commit. Powered by Claude AI. No more stale docs.",
+  "type": "module",
+  "bin": { "living-readme": "./index.js" },
+  "keywords": ["readme", "documentation", "ai", "claude", "git-hooks", "automation"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,6 @@
+# living-readme default config
+# Copy this to your project root and customise
+
+model=claude-haiku-4-5-20251001
+sections=Usage,Installation,Features,API
+max_diff_chars=2000
