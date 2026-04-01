@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # living-readme
 
 Your README updates itself.
