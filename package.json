@@ -5,6 +5,7 @@
   "type": "module",
   "bin": { "living-readme": "./index.js" },
   "keywords": ["readme", "documentation", "ai", "claude", "git-hooks", "automation"],
+  "scripts": { "test": "node --test" },
   "license": "MIT",
-  "engines": { "node": ">=18" }
+  "engines": { "node": ">=20" }
 }
